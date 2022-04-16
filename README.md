@@ -1,6 +1,8 @@
 
 # Description
 This project is made using React . It allows users to add, update and delete feedback. It uses a mock
+
+Json also gets updated
 REST api with json-server.
 ## Screenshots
 Demo interface
